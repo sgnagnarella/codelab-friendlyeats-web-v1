@@ -35,3 +35,10 @@ pnpm-debug.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#firebase
+/.genkit
+*.log
+*.firebaserc
+apphosting.emulator.yaml
+.firebaserc

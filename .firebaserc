@@ -1,6 +1,7 @@
 {
   "projects": {
-    "prod": "codelab-friendlyeats-web-v1"
+    "prod": "codelab-friendlyeats-web-v1",
+    "default": "codelab-friendlyeats-web-v1"
   },
   "targets": {},
   "etags": {}
